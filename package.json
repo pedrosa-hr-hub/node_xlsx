@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-xlsx": "^0.21.0",
+    "read-excel-file": "^5.4.7"
+  }
+}
